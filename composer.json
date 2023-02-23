@@ -1,0 +1,15 @@
+{
+  "name": "martinyde/drush-language-option",
+  "description": "Allow for af drush language global option.",
+  "type": "drupal-drush",
+  "require": {
+    "drush/drush": "^11"
+  },
+  "license": "GPL-2.0+",
+  "authors": [
+    {
+      "name": "Martin Yde Granath",
+      "email": "my@aarhus.dk"
+    }
+  ]
+}
